@@ -36,4 +36,12 @@
              .unshift -> add an item at the start of the array, 
              .pop -> delete the last item of the array)
         }
-            
+        difference between var and let
+
+        switch statment (like in c)
+
+        boucles (for, for...of,for...in works with arrays,while classic)
+
+        errors and exeption handling
+        
+        declaration of functions( like in c++)
