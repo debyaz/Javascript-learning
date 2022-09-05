@@ -45,3 +45,32 @@
         errors and exeption handling
         
         declaration of functions( like in c++)
+
+        discovering whats called Testing and their three types
+        {
+            Link : https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279919-testez-quune-fonction-fait-ce-quelle-dit
+
+            types of testing
+                es tests unitaires ;
+                les tests d'intégration ;
+                les tests fonctionnels (E2E).
+
+                and some frame works for that like :
+                    Jasmine
+                    mocha.js
+                    Mocha
+        }
+
+        Debugging
+        {
+            the three methods of debugging:
+                using console
+                using debugging tool given by the IDE like breakpoint wich help you isolate the function
+                explaining the program with voice
+        }
+
+        fuctions inside themselves named in frenche recursivite
+        discovering algorithms like binaty search
+
+## summury of the course
+    Link : https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6280131-resume-du-cours;
